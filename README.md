@@ -22,6 +22,6 @@ The Bus Tracker Application updates every 15 seconds to give users live feedback
 - Add HUD
 - User login page
 
-
+# [LICENSE](https://github.com/abdulfadel/real-time-bus-tracker-master/blob/master/LICENSE)
 ![image](https://user-images.githubusercontent.com/92131037/170177019-1b6ef05f-ae92-4c0c-b948-b04cb8c7f6ea.png)
 
